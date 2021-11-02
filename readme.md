@@ -1,5 +1,6 @@
-Core port from Subcritical and Shaeon
------------
+Core port from Subcritical and Shaeon to Atlas
+
+------------
 Core port from Jepalza, ported from
 (https://github.com/mvvproject/ReVerSE-U16)
 and
