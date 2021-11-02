@@ -124,4 +124,3 @@ Known issues
 * Hardware matches Atari very closely - including overscan corruption - this often shows up on VGA monitors.
 
 Enjoy !
-
